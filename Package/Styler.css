@@ -1,7 +1,53 @@
-body {background-color:rgb(80, 80, 80);
+html {background-color:rgb(80, 80, 80);
 
 }
 
+
 body{
       margin-left:50%;
+}
+
+
+
+.news{
+      display:inline;
+}
+
+
+.news_container{
+	display: flex;
+	//background-color:rgb(90, 0, 80);
+	height:200px;
+	
+//	border-color:black;
+//	border-style:solid;	
+	
+}
+
+
+
+article{
+	display: block;
+//	background-color:rgb(8, 0, 80);
+	height:200px;
+	width:1000px;
+	
+}
+
+.test{
+	float:left;
+	//background-color:rgb(80, 0, 80);
+	height:50px;
+	width:200px;
+//	border-color:black;
+//	border-style:solid;	
+}
+
+.test1{
+	display: flex;
+	//background-color:rgb(90, 0, 80);
+	height:200px;
+	
+//	border-color:black;
+//	border-style:solid;	
 }
