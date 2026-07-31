@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<link rel="stylesheet" href="Styler.css"></link>
+</head>
+
+
+<body>
+
+<section  style="display:flex;"background-color:cyan;width:800px;height:800px;">
+	<article style="background-color:red;width:200px;height:200px;" >
+
+
+
+	</article>
+
+
+	<article style="background-color:red;width:200px;height:200px" >
+
+
+	</article>
+
+
+</section>
+
+
+<footer><p>Copyright, All Rights Reserved</p></footer>
+
+</body>
+
+
+
+</html>
