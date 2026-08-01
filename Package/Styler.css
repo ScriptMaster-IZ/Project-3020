@@ -3,8 +3,10 @@ html {background-color:rgb(80, 80, 80);
 }
 
 
-body{
-      margin-left:50%;
+body{background-color:yellow;position:relative;
+	margin-left:50%;
+	width:800px;
+	right:400px;      
 }
 
 
