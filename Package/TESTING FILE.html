@@ -8,7 +8,18 @@
 
 <body>
 
-<section style="display:grid;background-color:cyan;width:1000px;height:2000px;grid-template-columns: auto auto auto;">
+<div style="background-color:purple;
+position:relative;
+left:-500px;
+width:1000px;">
+
+<section style="display:grid;width:900px;
+background-color:none;
+grid-gap:10px;
+
+grid-template-columns:repeat(4, 200px); 
+grid-auto-column:200px;position:relative;
+">
 	
 	<article style="background-color:red;width:200px;height:200px;" >
 	</article>
@@ -28,19 +39,11 @@
 	</article>
 
 
-	<article style="background-color:green;width:200px;height:200px;" >
-	</article>
-
-	<article style="background-color:red;width:200px;height:200px;" >
-	</article>
-
-
-	<article style="background-color:green;width:200px;height:200px;display:inline-block" >
-	</article>
+	
 
 
 </section>
-
+</div>
 
 <footer><p>Copyright, All Rights Reserved</p></footer>
 
