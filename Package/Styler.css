@@ -3,13 +3,16 @@ html {background-color:rgb(80, 80, 80);
 }
 
 
-body{background-color:yellow;position:relative;
+body{background-color:;position:relative;display:;
 	margin-left:50%;
 	width:800px;
 	right:400px;      
 }
 
-
+button{background-color:grey;
+	width:80px;
+	right:40px;      
+}
 
 .news{
       display:inline;
@@ -52,4 +55,7 @@ article{
 	
 //	border-color:black;
 //	border-style:solid;	
+}
+
+h1{  text-decoration: underline;
 }
