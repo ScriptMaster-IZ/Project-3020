@@ -1,3 +1,9 @@
+:root { --bg1: #ffffff; --text1: #111111; --bg2: #1a1a1a; --text2: #f0f0f0; }
+[data-theme="dark"] {background-color: var(--bg2); color: var(--text2); }
+[data-theme="light"] {background-color: var(--bg1); color: var(--text1); }
+
+
+
 html {background-color:rgb(80, 80, 80);
 
 }
@@ -9,9 +15,15 @@ body{background-color:;position:relative;display:;
 	right:400px;      
 }
 
-button{background-color:grey;
-	width:80px;
-	right:40px;      
+.holder{background-color:;
+width:800px;
+right:40px;  
+      
+}
+button.Pages{background-color:grey;
+	width:133px;
+	right:40px; height:80px;
+	     
 }
 
 .news{
