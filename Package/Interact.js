@@ -54,9 +54,26 @@ butt1=new buttonCreate("PROJECTS/PRODUCTS","Project_Products.html");
 butt1=new buttonCreate("NEWS","Blog.html");
 butt1=new buttonCreate("CONTACTS","Contacts.html");
 
-butt1=new buttonTheme("THEME","Contacts.html");
+butt1=new buttonTheme("","");
 
 document.addEventListener("DOMContentLoaded", themer );
+
+
+
+document.addEventListener("DOMContentLoaded", function () {
+ loadComponent("#header-placeholder", "components/header.html");
+ loadComponent("#footer-placeholder", "components/footer.html");
+
+
+
+
+});
+
+
+document.addEventListener("DOMContentLoaded", blogger);
+document.addEventListener("DOMContentLoaded", checker);
+
+
 
 }())
 
