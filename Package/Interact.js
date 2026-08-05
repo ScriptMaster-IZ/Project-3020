@@ -71,7 +71,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
 document.addEventListener("DOMContentLoaded", blogger);
-document.addEventListener("DOMContentLoaded", checker);
+
 
 
 
