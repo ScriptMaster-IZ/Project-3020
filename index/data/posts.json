@@ -1,0 +1,24 @@
+[
+ {
+ "id": 1,
+ "title": "My Post Title",
+ "date": "2025-06-01",
+ "summary": "A short description of the post.",
+ "category": "Tutorial",
+ "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam faucibus urna condimentum ante convallis bibendum. Integer dignissim elit et enim viverra, sed pharetra massa congue. Aliquam venenatis sem eu diam tincidunt elementum. Etiam tempor justo at finibus fringilla. Vestibulum id ligula eget mi mollis ."
+ },
+
+ {
+ "id": 2,
+ "title": "My Post Title 1",
+ "date": "2026-06-01",
+ "summary": "A short description of the post.",
+ "category": "Tutorial",
+ "content": "Et reprehenderit sapiente ad repellat quia aut necessitatibus vero qui vitae molestiae et iste accusantium. Sed ipsam dicta qui officia exercitationem et voluptatem beatae.."
+ }
+
+
+
+]
+
+
