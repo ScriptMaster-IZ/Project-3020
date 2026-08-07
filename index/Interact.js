@@ -47,7 +47,7 @@ hh.appendChild(butt);
 //Navtigation buttons
 (function buttonStart(){
 
-let butt1=new buttonCreate("HOME","Landing.html");
+let butt1=new buttonCreate("HOME","index.html");
 butt1=new buttonCreate("ABOUT US","About.html");
 butt1=new buttonCreate("SERVICES","Services.html");
 butt1=new buttonCreate("PROJECTS/PRODUCTS","Project_Products.html");
